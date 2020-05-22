@@ -163,6 +163,22 @@ ul > li {
 
   color: #ffffff;
 }
+.subscribe{
+ 
+    width: 20vw;
+    height: 52px;
+    background: #df678c;
+  
+    font-family: Nunito;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 27px;
+    letter-spacing: 0.18em;
+  
+    color: #ffffff;
+ 
+}
 .button {
   width: 100px;
   height: 46px;
@@ -419,7 +435,7 @@ footer > div > div > div {
   .intro {
     text-align: center;
 
-    font-size: 13px;
+    font-size: 20px;
   }
 
   .circle > img {
@@ -479,4 +495,18 @@ footer > div > div > div {
   .downloadfoot {
     padding-left: 50px;
   }
+
+  .mem-des {
+    
+    font-size: 15px;
+  
+    
+}
+.subscribe, .searchbutton{
+  font-size: 10px;
+}
+.sub > img {
+  height: 30px;
+  width: 100px;
+}
 }
